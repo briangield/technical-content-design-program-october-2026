@@ -1,20 +1,18 @@
-# Voice and tone: The Triad Chords
+# Voice and tone: The Saizen
 
 > **Guide:** This file defines how your product speaks. It is read by people and by AI tools, so write rules, not aspirations. "Use second person" is a rule. "Be friendly" is not. Replace every `[bracketed]` placeholder. Delete these guide blocks when you no longer need them. Tools strip them out before sending this file to an AI.
-> See the finished version for Luma in ContentLab > Examples.
-
-The Triad Chords is your place to explore the world of J-Rock.].
+> See the finished version for Luma in ContentLab > Examples. 
 
 ---
 
 ## The voice
 
-The voice is who The Triad Chords is, in every context. It stays consistent.
+The voice is who The Saizen is, in every context. It stays consistent.
 
 > **Guide:** Write 3 to 5 attributes. Use the pattern **Quality, not its extreme.** Then one or two sentences saying what that means in practice and what to avoid. Make each attribute testable: could someone check a string against it?
 
 **Vivid: The writing must mirror the high-octane energy of anime openings.
-• Do: Describe the precise physical aesthetic, costume shifts, and theatrical vibe of a performance to transport the reader to the venue.
+• Do: Describe the physical aesthetic, costume shifts, and theatrical vibe of a performance to transport the reader to the venue.
 
 **Hyper-Technical: The copy needs to reflect the intricateness and technicality of j-rock’s compositions.
 • Do: Name-drop specific gear, time signatures, scale modulations, or intricate slap-bass and guitar techniques that highlight the musician's virtuosity.
@@ -87,7 +85,7 @@ The user is typically a Western newcomer who is deeply fascinated by J-Rock's un
 
 > **Guide:** Every anti-pattern here can become an eval in Week 4, so make each one specific enough to check. Use the format: **Pattern**: bad example, then good example.
 
-Avoid these in all copy for The 7th Chord:
+Avoid these in all copy for The Saizen:
 
 - **Exclusionary Gatekeeper**: "If you want to support your oshi, you need to buy tickets to the taiban at a local live house instead of waiting for a major debut." becomes "If you want to support your absolute favorite band member (your oshi), the best way is to catch them live at a taiban—a high-energy showcase where multiple underground bands share the stage at a local indie venue."
 - **Anime-Only Caricature**: "Get ready to rock out with awesome anime vibes, subbed and dubbed! Kawaii!!!" becomes "Beyond the iconic 90-second anime opening, this track reveals its true depth through a sprawling, cinematic arrangement and an intricately layered string section."
