@@ -1,46 +1,46 @@
-# Personas: [Your product name]
+# Personas: The Triad Chord
 
 > **Guide:** Personas describe goals, pain points, vocabulary, and what users need from copy. They are not demographic profiles. Write two people who need different things, so you can pressure-test copy against both. Replace every `[bracketed]` placeholder. See the finished version for Luma in ContentLab > Examples.
 
-These are the primary users of [Your product name]. Use them to check whether a string would land: would this person understand it, and would it frustrate them?
+These are the primary users of The Triad Chords. Use them to check whether a string would land: would this person understand it, and would it frustrate them?
 
 ---
 
-## Persona 1: [Name], [short role description]
+## Persona 1: Jason, someone who missed out on what happened in music the past 15 years
 
-**Role:** [Job title or role]
-**Experience level:** [Comfort with technology and with this type of product]
-**How they learn:** [Reads docs, learns by doing, asks a colleague]
+**Role:** Engineer
+**Experience level:** Familiar with J-Rock bands that have gone viral
+**How they learn:** YouTube videos and Discords 
 
 ### Who they are
 
 > **Guide:** 3 or 4 sentences. What is their day like and where does your product fit in it? What do they care about more than your product?
 
-[Short description]
+Jason reads The Triad Chords during his daily train commute to learn about other bands similar to the few J-rock bands he knows and likes. He doesn’t have a lot of time to explore all the bands from the world’s second largest music scene so he’s trying to narrow down his options. He looks for bands inspired by Western bands he grew up loving. 
 
 ### Goals
 
-- [Goal 1]
-- [Goal 2]
-- [Goal 3]
+- Discover a new band he never heard of before
+- Explore their discography to choose an album to listen to
+- Trust that the writer has a similar vibe to his own
 
 ### Pain points
 
-- [Pain point 1]
-- [Pain point 2]
-- [Pain point 3]
+- Explanations in regards to music theory that are inaccurate
+- Too many equally weighted albums in terms of reviews
+- Descriptions of songs that don’t take into account what the artists meant
 
 ### Vocabulary they use
 
 > **Guide:** The real words this person says. This is the most useful section for an AI. If they say "stuff", do not write "assets".
 
-[Word 1], [Word 2], [Word 3], [Word 4]
+Chromatic, Double bass, Half-time, Chaotic
 
 ### What they need from copy
 
-- [Need 1]
-- [Need 2]
-- [Need 3]
+- Musical explanations - how are the instruments complimenting each other
+- Sources of inspiration - what are the favorite artists of the artists
+- Cultural references - Explanations of what Japanese words mean and why they were used
 
 ---
 
