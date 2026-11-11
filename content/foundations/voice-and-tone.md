@@ -1,7 +1,6 @@
 # Voice and tone: The Saizen
 
-> **Guide:** This file defines how your product speaks. It is read by people and by AI tools, so write rules, not aspirations. "Use second person" is a rule. "Be friendly" is not. Replace every `[bracketed]` placeholder. Delete these guide blocks when you no longer need them. Tools strip them out before sending this file to an AI.
-> See the finished version for Luma in ContentLab > Examples. 
+> **Guide:** 
 
 ---
 
@@ -51,17 +50,18 @@ The user is typically a Western newcomer who is deeply fascinated by J-Rock's un
 
 ### Empty states
 
-[Where is the user emotionally? What tone helps them?]
-
+When the user is served an empty page or no search results, use the vernacular of their interests to guide them onward.
 **Good:**
 > "This stage is empty, let's find another."
+> "No such artist exists" Check the spelling or try another name."
 
 **Not:**
 > "This page is under construction"
+> "Oopsies, try again."
 
 ### Errors
 
-[Where is the user emotionally? What tone helps them?]
+Follow these guidelines for error state messaging. 
 
 **Good:**
 > "Sorry, an amp blew. Refresh the page to get it cranking again."
@@ -71,13 +71,13 @@ The user is typically a Western newcomer who is deeply fascinated by J-Rock's un
 
 ### Confirmations
 
-[Where is the user emotionally? What tone helps them?]
+The user placed an order. Let them know simply, but not in a boring way.
 
 **Good:**
-> "Your music is on its way. Remember to turn it up."
+> "Your music is on its way."
 
 **Not:**
-> "Your order is being shipped now."
+> "Your order is being processed and will be shipped soon."
 
 ---
 
@@ -87,6 +87,6 @@ The user is typically a Western newcomer who is deeply fascinated by J-Rock's un
 
 Avoid these in all copy for The Saizen:
 
-- **Exclusionary Gatekeeper**: "If you want to support your oshi, you need to buy tickets to the taiban at a local live house instead of waiting for a major debut." becomes "If you want to support your absolute favorite band member (your oshi), the best way is to catch them live at a taiban—a high-energy showcase where multiple underground bands share the stage at a local indie venue."
+- **Exclusionary Gatekeeper**: "If you want to support your oshi, you need to buy tickets to the taiban at a local live house instead of waiting for a major debut." becomes "If you want to support your absolute favorite band member (your oshi), the best way is to catch them live at a taiban, a high-energy showcase where multiple underground bands share the stage at a local indie venue."
 - **Anime-Only Caricature**: "Get ready to rock out with awesome anime vibes, subbed and dubbed! Kawaii!!!" becomes "Beyond the iconic 90-second anime opening, this track reveals its true depth through a sprawling, cinematic arrangement and an intricately layered string section."
 - **Western-Centric Lazy Compariso**: "Think of this group as the Japanese Green Day" becomes "Emerging from the gritty underground scene of the late 90s, this quartet pioneered a distinct brand of melodic punk characterized by lightning-fast tempos and deeply emotional, introspective Japanese lyricism."
